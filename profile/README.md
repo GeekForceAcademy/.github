@@ -1,5 +1,5 @@
 <div style="max-width: 220px; margin-left: auto; margin-right: auto;">
-   <img src="logo.png" width="100%"/>
+   <img src="https://github.com/GeekForceAcademy/.github/edit/main/profile/logo.png" width="100%"/>
 </div>
 
 ## The _Geek Force Academy_ GitHub
